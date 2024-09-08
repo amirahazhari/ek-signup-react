@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Happy School';
+    src: url('../Assets/fonts/HappySchool.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+  }
+
+  @font-face {
+    font-family: 'Poppins';
+    src: url('../Assets/fonts/Poppins/Poppins-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+  }
